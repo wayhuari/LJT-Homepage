@@ -19,10 +19,14 @@ My research focuses on **natural language processing** and **machine learning**.
 
 ## Skills
 
-- **Natural Language Processing**: Large language models, reasoning, truthfulness
-- **Machine Learning**: Deep learning, reinforcement learning, model interpretability
-- **Vision-Language Models**: Chart understanding, hallucination detection and mitigation
-- **Research Methods**: Experimental design, data synthesis, model analysis
+- Natural Language Processing
+- Machine Learning
+- Large Language Model Reasoning
+- Reinforcement Learning
+- Vision-Language Models
+- Hallucination Detection
+- LLM Truthfulness Analysis
+- Model Interpretability
 
 ## Education
 
